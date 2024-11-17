@@ -5,9 +5,8 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/6b4b3d5c-4561-4c76-838b-18f1c0ae47a4"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/29a86741-5b30-437f-a98f-fb63b3d886e3"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer) [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA) [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
