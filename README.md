@@ -1,3 +1,4 @@
+
 <h1>
   Hola, Soy Federico. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -9,9 +10,28 @@
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer) [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA) [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+---
+ <div id="header" align="left">
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+### :man_technologist: Sobre mí :
+Apasionado de la informática, tecnología y pruebas de software <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :telescope: Recientemente culminé el bootcamp de QA Engineer de Tripleten :muscle:
+
+* :seedling: Estoy fortaleciendo mis habilidades para Python, :blue_book: aprendiendo Java script, HTML y practicando :computer: SQL.
+
+* :heartbeat: Me encanta descubrir nuevas maneras de aprender y solucionar problemas.
+
+* :mailbox: ¿Quieres contactar conmigo?  [![Linkedin Badge](https://img.shields.io/badge/-Federico-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer)
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+![Picture1](https://github.com/user-attachments/assets/541d92ca-c233-4952-b6c4-5481685bb63b)
+
+          
+
+
 
 
 <!--
