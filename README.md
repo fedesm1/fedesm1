@@ -27,9 +27,9 @@ Apasionado de la informática, tecnología y pruebas de software <img decoding="
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-![Picture1](https://github.com/user-attachments/assets/541d92ca-c233-4952-b6c4-5481685bb63b)
+![Slide1_transparent_Craiyon](https://github.com/user-attachments/assets/201bafb8-5991-4fed-9a57-85c336f66cb6)
 
-          
+
 
 
 
