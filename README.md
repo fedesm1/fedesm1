@@ -9,7 +9,7 @@
   <img decoding="async" src="https://github.com/user-attachments/assets/29a86741-5b30-437f-a98f-fb63b3d886e3"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer) [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA) [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer) 
 ---
  <div id="header" align="left">
 
