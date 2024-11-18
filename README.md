@@ -10,6 +10,8 @@
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedesm24@gmail.com)
+
 ---
  <div id="header" align="left">
 
@@ -21,8 +23,6 @@ Apasionado de la informática, tecnología y pruebas de software <img decoding="
 * :seedling: Estoy fortaleciendo mis habilidades para Python, :blue_book: aprendiendo Java script, HTML y practicando :computer: SQL.
 
 * :heartbeat: Me encanta descubrir nuevas maneras de aprender y solucionar problemas.
-
-* :mailbox: ¿Quieres contactar conmigo?  [![Linkedin Badge](https://img.shields.io/badge/-Federico-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer)
 
 ---
 
